@@ -21,4 +21,4 @@
   - [kurages](https://github.com/kurages)
 
 ## Contact Us
-### mail:[ramune.main@gmail.com](mailto:ramune.main@gmail.com)
+### [Twitter](https://twitter.com/ramune_main)
